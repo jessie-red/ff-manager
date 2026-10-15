@@ -1,0 +1,30 @@
+{
+  "name": "ff-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "rate": "tsx src/cli.ts",
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit && tsc -p web",
+    "test": "node --import tsx --test src/espn/transactions.test.ts src/model/management.test.ts src/server/lineup.test.ts src/server/scores.test.ts src/server/dashboard.test.ts src/server/championship.test.ts src/uncertainty/uncertainty.test.ts src/model/simulation.test.ts",
+    "curves": "tsx src/curves.ts",
+    "uncertainty:download": "node --import tsx src/uncertainty/download.ts",
+    "uncertainty:build": "node --import tsx src/uncertainty/build.ts",
+    "simulate": "node --import tsx src/simulation/cli.ts",
+    "simulate:benchmark": "node --import tsx src/simulation/cli.ts --benchmark",
+    "simulate:validate": "node --import tsx src/simulation/validate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2",
+    "vite-plugin-solid": "^2.11.14"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1",
+    "solid-js": "^1.9.15"
+  }
+}

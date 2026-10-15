@@ -1,0 +1,189 @@
+{
+  "description": "Synthetic 12-team PPR league; 180 players, nine weekly starters, 14 regular weeks, six-team fixed playoffs in weeks 15–17. Two paired scenarios. Numerical validation, not historical championship calibration.",
+  "node": "v25.9.0",
+  "platform": "darwin",
+  "arch": "arm64",
+  "cpu": "Apple M1",
+  "runs": [
+    {
+      "cpuSeconds": 0.52,
+      "simulations": 10000,
+      "seed": 42,
+      "seconds": 0.385,
+      "baselineTitle": 0.0866,
+      "tradeTitle": 0.0596,
+      "titleDelta": -0.027,
+      "deltaInterval95": [
+        -0.03244861414486381,
+        -0.02155138585513619
+      ],
+      "pairedSE": 0.0027799051759509223,
+      "independentSE": 0.003676435721995122,
+      "varianceReduction": 0.4282502152450627,
+      "symmetricTitleRange": [
+        0.0798,
+        0.0883
+      ]
+    },
+    {
+      "cpuSeconds": 0.456,
+      "simulations": 10000,
+      "seed": 7,
+      "seconds": 0.41,
+      "baselineTitle": 0.0846,
+      "tradeTitle": 0.0575,
+      "titleDelta": -0.0271,
+      "deltaInterval95": [
+        -0.03250950083874034,
+        -0.02169049916125966
+      ],
+      "pairedSE": 0.0027599494075205813,
+      "independentSE": 0.0036283571347856254,
+      "varianceReduction": 0.4213949935956255,
+      "symmetricTitleRange": [
+        0.0775,
+        0.0854
+      ]
+    },
+    {
+      "cpuSeconds": 0.389,
+      "simulations": 10000,
+      "seed": 2026,
+      "seconds": 0.397,
+      "baselineTitle": 0.0859,
+      "tradeTitle": 0.0592,
+      "titleDelta": -0.0267,
+      "deltaInterval95": [
+        -0.03222966923981807,
+        -0.02117033076018193
+      ],
+      "pairedSE": 0.0028212598162337104,
+      "independentSE": 0.0036637408887269813,
+      "varianceReduction": 0.40702461805194656,
+      "symmetricTitleRange": [
+        0.078,
+        0.0889
+      ]
+    },
+    {
+      "cpuSeconds": 3.062,
+      "simulations": 100000,
+      "seed": 42,
+      "seconds": 3.064,
+      "baselineTitle": 0.08326,
+      "tradeTitle": 0.0584,
+      "titleDelta": -0.02486,
+      "deltaInterval95": [
+        -0.02657365821717496,
+        -0.02314634178282504
+      ],
+      "pairedSE": 0.0008743154169259986,
+      "independentSE": 0.0011459429548858699,
+      "varianceReduction": 0.4178830101331029,
+      "symmetricTitleRange": [
+        0.08231,
+        0.08443
+      ]
+    },
+    {
+      "cpuSeconds": 3.475,
+      "simulations": 100000,
+      "seed": 7,
+      "seconds": 3.618,
+      "baselineTitle": 0.08253,
+      "tradeTitle": 0.05859,
+      "titleDelta": -0.02394,
+      "deltaInterval95": [
+        -0.025656177198433824,
+        -0.022223822801566175
+      ],
+      "pairedSE": 0.0008756006114458279,
+      "independentSE": 0.0011440162576344696,
+      "varianceReduction": 0.4142022222850297,
+      "symmetricTitleRange": [
+        0.08242,
+        0.08454
+      ]
+    },
+    {
+      "cpuSeconds": 3.954,
+      "simulations": 100000,
+      "seed": 2026,
+      "seconds": 4.088,
+      "baselineTitle": 0.08549,
+      "tradeTitle": 0.05979,
+      "titleDelta": -0.0257,
+      "deltaInterval95": [
+        -0.027452861540851362,
+        -0.02394713845914864
+      ],
+      "pairedSE": 0.0008943171126792668,
+      "independentSE": 0.0011593013403753045,
+      "varianceReduction": 0.4048993754498986,
+      "symmetricTitleRange": [
+        0.08205,
+        0.08549
+      ]
+    },
+    {
+      "cpuSeconds": 30.29,
+      "simulations": 1000000,
+      "seed": 42,
+      "seconds": 30.3,
+      "baselineTitle": 0.083488,
+      "tradeTitle": 0.059071,
+      "titleDelta": -0.024417,
+      "deltaInterval95": [
+        -0.024961495222198933,
+        -0.02387250477780107
+      ],
+      "pairedSE": 0.0002778036847953736,
+      "independentSE": 0.0003634549530746595,
+      "varianceReduction": 0.41578215221721015,
+      "symmetricTitleRange": [
+        0.08299,
+        0.08395
+      ]
+    },
+    {
+      "cpuSeconds": 29.934,
+      "simulations": 1000000,
+      "seed": 7,
+      "seconds": 29.93,
+      "baselineTitle": 0.082975,
+      "tradeTitle": 0.058403,
+      "titleDelta": -0.024572,
+      "deltaInterval95": [
+        -0.02511415985581529,
+        -0.02402984014418471
+      ],
+      "pairedSE": 0.0002766121713343311,
+      "independentSE": 0.00036205299342550676,
+      "varianceReduction": 0.4162884505211556,
+      "symmetricTitleRange": [
+        0.082795,
+        0.083904
+      ]
+    },
+    {
+      "cpuSeconds": 30.225,
+      "simulations": 1000000,
+      "seed": 2026,
+      "seconds": 30.305,
+      "baselineTitle": 0.083636,
+      "tradeTitle": 0.058905,
+      "titleDelta": -0.024731,
+      "deltaInterval95": [
+        -0.02527663194889248,
+        -0.02418536805110752
+      ],
+      "pairedSE": 0.0002783836473941225,
+      "independentSE": 0.0003634231040472696,
+      "varianceReduction": 0.4132374672901695,
+      "symmetricTitleRange": [
+        0.082981,
+        0.083902
+      ]
+    }
+  ]
+}

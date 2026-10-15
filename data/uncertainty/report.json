@@ -1,0 +1,858 @@
+{
+  "audit": {
+    "sourceFiles": 109,
+    "seasons": [
+      2023,
+      2024,
+      2025
+    ],
+    "weeksPerSeason": 18,
+    "weeklyRows": 24646,
+    "rawFeedExclusions": {
+      "unsupportedPosition": 412221,
+      "noGameOrStatLine": 171836
+    },
+    "missingWeeklyProjection": 2986,
+    "missingWeeklyActual": 278,
+    "gameMismatches": [
+      {
+        "season": 2025,
+        "week": 1,
+        "playerId": "11306",
+        "name": "Xavier Gipson",
+        "gameId": "202510124",
+        "projectionGameId": "202510126"
+      }
+    ],
+    "nonParticipatingWithActual": 1281,
+    "projectionModifiedAfterGameDate": 21660,
+    "preseasonPlayers": 459,
+    "preseasonGameCountExceptions": [
+      {
+        "name": "Isaiah Likely",
+        "projectedGames": 15
+      },
+      {
+        "name": "Jalen Coker",
+        "projectedGames": 13
+      },
+      {
+        "name": "Joe Flacco",
+        "projectedGames": 8
+      },
+      {
+        "name": "Dillon Gabriel",
+        "projectedGames": 5
+      },
+      {
+        "name": "Shedeur Sanders",
+        "projectedGames": 4
+      },
+      {
+        "name": "Quinshon Judkins",
+        "projectedGames": 11
+      },
+      {
+        "name": "MarShawn Lloyd",
+        "projectedGames": 13
+      },
+      {
+        "name": "Christian Watson",
+        "projectedGames": 10
+      },
+      {
+        "name": "Joe Mixon",
+        "projectedGames": 9
+      },
+      {
+        "name": "Christian Kirk",
+        "projectedGames": 16
+      },
+      {
+        "name": "Daniel Jones",
+        "projectedGames": 13
+      },
+      {
+        "name": "Anthony Richardson",
+        "projectedGames": 4
+      },
+      {
+        "name": "Rashee Rice",
+        "projectedGames": 11
+      },
+      {
+        "name": "Jalen Royals",
+        "projectedGames": 16
+      },
+      {
+        "name": "Jaylen Wright",
+        "projectedGames": 14
+      },
+      {
+        "name": "C.J. Ham",
+        "projectedGames": 12
+      },
+      {
+        "name": "Jordan Addison",
+        "projectedGames": 14
+      },
+      {
+        "name": "Spencer Rattler",
+        "projectedGames": 10
+      },
+      {
+        "name": "Tyler Shough",
+        "projectedGames": 7
+      },
+      {
+        "name": "Foster Moreau",
+        "projectedGames": 13
+      },
+      {
+        "name": "Jaxson Dart",
+        "projectedGames": 9
+      },
+      {
+        "name": "Russell Wilson",
+        "projectedGames": 8
+      },
+      {
+        "name": "Tanner McKee",
+        "projectedGames": 15
+      },
+      {
+        "name": "Sam Howell",
+        "projectedGames": 2
+      },
+      {
+        "name": "Brandon Aiyuk",
+        "projectedGames": 12
+      },
+      {
+        "name": "Demarcus Robinson",
+        "projectedGames": 14
+      },
+      {
+        "name": "Marquez Valdes-Scantling",
+        "projectedGames": 3
+      },
+      {
+        "name": "Chris Godwin",
+        "projectedGames": 13
+      },
+      {
+        "name": "Jalen McMillan",
+        "projectedGames": 9
+      },
+      {
+        "name": "Sterling Shepard",
+        "projectedGames": 8
+      },
+      {
+        "name": "Ryan Miller",
+        "projectedGames": 4
+      },
+      {
+        "name": "Devin Culp",
+        "projectedGames": 4
+      },
+      {
+        "name": "Tyjae Spears",
+        "projectedGames": 13
+      }
+    ],
+    "reviewedAliases": {
+      "Nathan Carter": "Nate Carter",
+      "Josh Palmer": "Joshua Palmer",
+      "Andrew Ogletree": "Drew Ogletree",
+      "D'Wayne Eskridge": "Dee Eskridge",
+      "Kyle T. Williams": "Kyle Williams",
+      "Kenneth Gainwell": "Kenny Gainwell",
+      "Ken Walker III": "Kenneth Walker",
+      "Cameron Ward": "Cam Ward",
+      "Chigoziem Okonkwo": "Chig Okonkwo",
+      "Bill Croskey-Merritt": "Jacory Croskey-Merritt"
+    },
+    "reviewed2025PositionOverrides": {
+      "8181": "TE",
+      "10994": "RB"
+    },
+    "unmatchedPreseason": [],
+    "unobservedSeasonOutcome": [
+      {
+        "name": "Jermaine Burton",
+        "playerId": "11640"
+      },
+      {
+        "name": "MarShawn Lloyd",
+        "playerId": "11581"
+      },
+      {
+        "name": "Joe Mixon",
+        "playerId": "4018"
+      },
+      {
+        "name": "Trey Palmer",
+        "playerId": "9492"
+      },
+      {
+        "name": "Sam Howell",
+        "playerId": "8162"
+      },
+      {
+        "name": "Brandon Aiyuk",
+        "playerId": "6803"
+      }
+    ]
+  },
+  "fits": {
+    "standard": {
+      "trainingSeasons": [
+        2023,
+        2024
+      ],
+      "holdoutSeason": 2025,
+      "holdoutWeekly": {
+        "QB": {
+          "n": 545,
+          "biasPoints": -0.5754811009174309,
+          "mae": 6.287871559633027,
+          "rmse": 7.8217348851128135,
+          "predictedRmsSd": 7.637634182317128,
+          "coverage80": 0.7688073394495413,
+          "coverage90": 0.8733944954128441,
+          "meanIntervalWidth80": 19.67219182607453,
+          "lagOneRatioResidualCorrelation": 0.05312393341053477,
+          "consecutiveGamePairs": 422
+        },
+        "RB": {
+          "n": 1284,
+          "biasPoints": -0.3231705607476639,
+          "mae": 4.372745327102806,
+          "rmse": 5.9832303846391985,
+          "predictedRmsSd": 6.123882673765869,
+          "coverage80": 0.7975077881619937,
+          "coverage90": 0.8940809968847352,
+          "meanIntervalWidth80": 12.918189974792073,
+          "lagOneRatioResidualCorrelation": 0.018426248473374904,
+          "consecutiveGamePairs": 1029
+        },
+        "WR": {
+          "n": 2023,
+          "biasPoints": -0.47023776569451387,
+          "mae": 3.6764799802273913,
+          "rmse": 4.834781049830723,
+          "predictedRmsSd": 5.609769700660704,
+          "coverage80": 0.8457736035590707,
+          "coverage90": 0.9253583786455759,
+          "meanIntervalWidth80": 11.447934521658247,
+          "lagOneRatioResidualCorrelation": -0.015747958821117024,
+          "consecutiveGamePairs": 1565
+        },
+        "TE": {
+          "n": 990,
+          "biasPoints": 0.030407070707070633,
+          "mae": 2.941726262626261,
+          "rmse": 4.109266597913463,
+          "predictedRmsSd": 4.5575889476442475,
+          "coverage80": 0.8585858585858586,
+          "coverage90": 0.9252525252525252,
+          "meanIntervalWidth80": 8.840906001263527,
+          "lagOneRatioResidualCorrelation": -0.01054692458568232,
+          "consecutiveGamePairs": 751
+        },
+        "K": {
+          "n": 534,
+          "biasPoints": 0.10361423220973774,
+          "mae": 3.7939513108614205,
+          "rmse": 4.704419449788742,
+          "predictedRmsSd": 4.900918777721156,
+          "coverage80": 0.8089887640449438,
+          "coverage90": 0.900749063670412,
+          "meanIntervalWidth80": 12.46464402729179,
+          "lagOneRatioResidualCorrelation": 0.03527859479718325,
+          "consecutiveGamePairs": 450
+        },
+        "DEF": {
+          "n": 537,
+          "biasPoints": -0.4243389199255121,
+          "mae": 4.134767225325886,
+          "rmse": 5.200036975230241,
+          "predictedRmsSd": 5.97701911301034,
+          "coverage80": 0.8063314711359404,
+          "coverage90": 0.9013035381750466,
+          "meanIntervalWidth80": 13.925812953971679,
+          "lagOneRatioResidualCorrelation": 0.04225356690453118,
+          "consecutiveGamePairs": 467
+        }
+      },
+      "productionWeeklyExclusions": {
+        "projectionBelowOnePoint": 2838,
+        "didNotParticipate": 743,
+        "missingProjection": 2986,
+        "missingActual": 278,
+        "differentGame": 1
+      },
+      "persistent": {
+        "QB": {
+          "available": true,
+          "cohortN": 35,
+          "minimumProjectedPpg": 8,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9258151618723681,
+          "observedRelativeVariance": 0.03972542773038292,
+          "weeklyMeanRelativeVariance": 0.01748815964560465,
+          "latentRelativeVariance": 0.021855063249604404,
+          "multiplier": {
+            "n": 35,
+            "mean": 1,
+            "variance": 0.02185506324960441,
+            "sd": 0.14783458069614297,
+            "p05": 0.7018658359192576,
+            "p10": 0.8455177749469919,
+            "p50": 0.9676960856100763,
+            "p90": 1.1932213662808244,
+            "p95": 1.215477801410839
+          }
+        },
+        "RB": {
+          "available": true,
+          "cohortN": 52,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.0495481942465754,
+          "observedRelativeVariance": 0.19495720280283407,
+          "weeklyMeanRelativeVariance": 0.04920665109476828,
+          "latentRelativeVariance": 0.1389150093129757,
+          "multiplier": {
+            "n": 52,
+            "mean": 1.0000000000000002,
+            "variance": 0.13891500931297568,
+            "sd": 0.37271303882876927,
+            "p05": 0.5713429559127478,
+            "p10": 0.6790992131753967,
+            "p50": 0.9467063227603625,
+            "p90": 1.4032539368306165,
+            "p95": 1.876088502291751
+          }
+        },
+        "WR": {
+          "available": true,
+          "cohortN": 84,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9127021396272916,
+          "observedRelativeVariance": 0.22607728494190085,
+          "weeklyMeanRelativeVariance": 0.08188726097127716,
+          "latentRelativeVariance": 0.1332763857864223,
+          "multiplier": {
+            "n": 84,
+            "mean": 1,
+            "variance": 0.13327638578642234,
+            "sd": 0.3650703847019398,
+            "p05": 0.5374598052836981,
+            "p10": 0.6339148941203707,
+            "p50": 0.9520315194196487,
+            "p90": 1.437294828262555,
+            "p95": 1.6214765432007359
+          }
+        },
+        "TE": {
+          "available": true,
+          "cohortN": 33,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.0666741123970218,
+          "observedRelativeVariance": 0.10187668669495575,
+          "weeklyMeanRelativeVariance": 0.09149124859802252,
+          "latentRelativeVariance": 0.009514907343758296,
+          "multiplier": {
+            "n": 33,
+            "mean": 0.9999999999999998,
+            "variance": 0.009514907343758296,
+            "sd": 0.097544386531252,
+            "p05": 0.8616513422143222,
+            "p10": 0.8713953514745776,
+            "p50": 1.009587087005562,
+            "p90": 1.124541375541172,
+            "p95": 1.1721992066882454
+          }
+        },
+        "K": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        },
+        "DEF": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        }
+      }
+    },
+    "half": {
+      "trainingSeasons": [
+        2023,
+        2024
+      ],
+      "holdoutSeason": 2025,
+      "holdoutWeekly": {
+        "QB": {
+          "n": 545,
+          "biasPoints": -0.5681416513761465,
+          "mae": 6.291541284403669,
+          "rmse": 7.827540517809211,
+          "predictedRmsSd": 7.634978841627022,
+          "coverage80": 0.7688073394495413,
+          "coverage90": 0.8752293577981651,
+          "meanIntervalWidth80": 19.666536979288963,
+          "lagOneRatioResidualCorrelation": 0.05275397916869782,
+          "consecutiveGamePairs": 422
+        },
+        "RB": {
+          "n": 1320,
+          "biasPoints": -0.28799999999999965,
+          "mae": 4.449203030303036,
+          "rmse": 6.068393189055045,
+          "predictedRmsSd": 5.937518023370897,
+          "coverage80": 0.8053030303030303,
+          "coverage90": 0.8871212121212121,
+          "meanIntervalWidth80": 12.966233194419887,
+          "lagOneRatioResidualCorrelation": 0.021002660450883875,
+          "consecutiveGamePairs": 1065
+        },
+        "WR": {
+          "n": 2096,
+          "biasPoints": -0.44070229007633527,
+          "mae": 4.103940839694657,
+          "rmse": 5.421906196832618,
+          "predictedRmsSd": 6.097999531728068,
+          "coverage80": 0.8411259541984732,
+          "coverage90": 0.9346374045801527,
+          "meanIntervalWidth80": 13.107024780593326,
+          "lagOneRatioResidualCorrelation": -0.013618801997067933,
+          "consecutiveGamePairs": 1628
+        },
+        "TE": {
+          "n": 1080,
+          "biasPoints": 0.07414166666666659,
+          "mae": 3.3099509259259263,
+          "rmse": 4.596586250505188,
+          "predictedRmsSd": 5.042411206471054,
+          "coverage80": 0.8537037037037037,
+          "coverage90": 0.9398148148148148,
+          "meanIntervalWidth80": 10.242545604757797,
+          "lagOneRatioResidualCorrelation": 0.012336699872114335,
+          "consecutiveGamePairs": 834
+        },
+        "K": {
+          "n": 534,
+          "biasPoints": 0.10361423220973774,
+          "mae": 3.7939513108614205,
+          "rmse": 4.704419449788742,
+          "predictedRmsSd": 4.900918777721156,
+          "coverage80": 0.8089887640449438,
+          "coverage90": 0.900749063670412,
+          "meanIntervalWidth80": 12.46464402729179,
+          "lagOneRatioResidualCorrelation": 0.03527859479718325,
+          "consecutiveGamePairs": 450
+        },
+        "DEF": {
+          "n": 537,
+          "biasPoints": -0.4243389199255121,
+          "mae": 4.134767225325886,
+          "rmse": 5.200036975230241,
+          "predictedRmsSd": 5.97701911301034,
+          "coverage80": 0.8063314711359404,
+          "coverage90": 0.9013035381750466,
+          "meanIntervalWidth80": 13.925812953971679,
+          "lagOneRatioResidualCorrelation": 0.04225356690453118,
+          "consecutiveGamePairs": 467
+        }
+      },
+      "productionWeeklyExclusions": {
+        "projectionBelowOnePoint": 2224,
+        "didNotParticipate": 743,
+        "missingProjection": 2986,
+        "missingActual": 278,
+        "differentGame": 1
+      },
+      "persistent": {
+        "QB": {
+          "available": true,
+          "cohortN": 35,
+          "minimumProjectedPpg": 8,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9261900767415713,
+          "observedRelativeVariance": 0.039758912569402546,
+          "weeklyMeanRelativeVariance": 0.017485455000399296,
+          "latentRelativeVariance": 0.021890688913085748,
+          "multiplier": {
+            "n": 35,
+            "mean": 1,
+            "variance": 0.021890688913085748,
+            "sd": 0.1479550232776358,
+            "p05": 0.7015689830280941,
+            "p10": 0.8452192312323488,
+            "p50": 0.9673961038225622,
+            "p90": 1.1929187299977124,
+            "p95": 1.2165308493457379
+          }
+        },
+        "RB": {
+          "available": true,
+          "cohortN": 55,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.1135205605984775,
+          "observedRelativeVariance": 0.23874280310337884,
+          "weeklyMeanRelativeVariance": 0.04693913195381745,
+          "latentRelativeVariance": 0.1832042239090001,
+          "multiplier": {
+            "n": 55,
+            "mean": 0.9999999999999998,
+            "variance": 0.18320422390900007,
+            "sd": 0.4280236254098599,
+            "p05": 0.5357147945141667,
+            "p10": 0.6222080582213514,
+            "p50": 0.9120875397399527,
+            "p90": 1.6268615818831014,
+            "p95": 1.9359395688259147
+          }
+        },
+        "WR": {
+          "available": true,
+          "cohortN": 91,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9719522032758272,
+          "observedRelativeVariance": 0.2756202755609093,
+          "weeklyMeanRelativeVariance": 0.06242093098886588,
+          "latentRelativeVariance": 0.2006731403282921,
+          "multiplier": {
+            "n": 91,
+            "mean": 1.0000000000000004,
+            "variance": 0.200673140328292,
+            "sd": 0.4479655570780995,
+            "p05": 0.4923094486480949,
+            "p10": 0.6002002205355622,
+            "p50": 0.9224681891159723,
+            "p90": 1.5134737626512296,
+            "p95": 2.0833920333747034
+          }
+        },
+        "TE": {
+          "available": true,
+          "cohortN": 40,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.037500742098569,
+          "observedRelativeVariance": 0.120037552863,
+          "weeklyMeanRelativeVariance": 0.06197982529449131,
+          "latentRelativeVariance": 0.05466933192672378,
+          "multiplier": {
+            "n": 40,
+            "mean": 1,
+            "variance": 0.05466933192672382,
+            "sd": 0.2338147384719873,
+            "p05": 0.6145138494690305,
+            "p10": 0.6860024405043237,
+            "p50": 1.025924401967481,
+            "p90": 1.2586891417439245,
+            "p95": 1.3748389304810367
+          }
+        },
+        "K": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        },
+        "DEF": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        }
+      }
+    },
+    "ppr": {
+      "trainingSeasons": [
+        2023,
+        2024
+      ],
+      "holdoutSeason": 2025,
+      "holdoutWeekly": {
+        "QB": {
+          "n": 545,
+          "biasPoints": -0.5608022018348621,
+          "mae": 6.295211009174312,
+          "rmse": 7.833927419553083,
+          "predictedRmsSd": 7.63263814514559,
+          "coverage80": 0.7688073394495413,
+          "coverage90": 0.8752293577981651,
+          "meanIntervalWidth80": 19.660885537913657,
+          "lagOneRatioResidualCorrelation": 0.052373568160869154,
+          "consecutiveGamePairs": 422
+        },
+        "RB": {
+          "n": 1335,
+          "biasPoints": -0.2452164794007491,
+          "mae": 4.649620973782757,
+          "rmse": 6.283105410543422,
+          "predictedRmsSd": 6.18336188303815,
+          "coverage80": 0.7962546816479401,
+          "coverage90": 0.8734082397003745,
+          "meanIntervalWidth80": 13.699063046396612,
+          "lagOneRatioResidualCorrelation": 0.0373806560463881,
+          "consecutiveGamePairs": 1078
+        },
+        "WR": {
+          "n": 2152,
+          "biasPoints": -0.41188382899628234,
+          "mae": 4.595794609665422,
+          "rmse": 6.082757906040192,
+          "predictedRmsSd": 6.692983293132476,
+          "coverage80": 0.8698884758364313,
+          "coverage90": 0.925185873605948,
+          "meanIntervalWidth80": 14.919617692943008,
+          "lagOneRatioResidualCorrelation": -0.011147551181443758,
+          "consecutiveGamePairs": 1680
+        },
+        "TE": {
+          "n": 1140,
+          "biasPoints": 0.1106429824561404,
+          "mae": 3.7706692982456143,
+          "rmse": 5.195754794212192,
+          "predictedRmsSd": 5.380818946378253,
+          "coverage80": 0.8307017543859649,
+          "coverage90": 0.9359649122807018,
+          "meanIntervalWidth80": 11.051346181886686,
+          "lagOneRatioResidualCorrelation": 0.11076621247577398,
+          "consecutiveGamePairs": 882
+        },
+        "K": {
+          "n": 534,
+          "biasPoints": 0.10361423220973774,
+          "mae": 3.7939513108614205,
+          "rmse": 4.704419449788742,
+          "predictedRmsSd": 4.900918777721156,
+          "coverage80": 0.8089887640449438,
+          "coverage90": 0.900749063670412,
+          "meanIntervalWidth80": 12.46464402729179,
+          "lagOneRatioResidualCorrelation": 0.03527859479718325,
+          "consecutiveGamePairs": 450
+        },
+        "DEF": {
+          "n": 537,
+          "biasPoints": -0.4243389199255121,
+          "mae": 4.134767225325886,
+          "rmse": 5.200036975230241,
+          "predictedRmsSd": 5.97701911301034,
+          "coverage80": 0.8063314711359404,
+          "coverage90": 0.9013035381750466,
+          "meanIntervalWidth80": 13.925812953971679,
+          "lagOneRatioResidualCorrelation": 0.04225356690453118,
+          "consecutiveGamePairs": 467
+        }
+      },
+      "productionWeeklyExclusions": {
+        "projectionBelowOnePoint": 1774,
+        "didNotParticipate": 743,
+        "missingProjection": 2986,
+        "missingActual": 278,
+        "differentGame": 1
+      },
+      "persistent": {
+        "QB": {
+          "available": true,
+          "cohortN": 35,
+          "minimumProjectedPpg": 8,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9265649916107745,
+          "observedRelativeVariance": 0.039794547968024487,
+          "weeklyMeanRelativeVariance": 0.017484710114660615,
+          "latentRelativeVariance": 0.021926460055453578,
+          "multiplier": {
+            "n": 35,
+            "mean": 0.9999999999999998,
+            "variance": 0.021926460055453584,
+            "sd": 0.14807585912448248,
+            "p05": 0.7012794588492232,
+            "p10": 0.8449244954896423,
+            "p50": 0.9670969355600469,
+            "p90": 1.1926113798797715,
+            "p95": 1.2175785395805283
+          }
+        },
+        "RB": {
+          "available": true,
+          "cohortN": 58,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.1233581900917882,
+          "observedRelativeVariance": 0.24093868871631438,
+          "weeklyMeanRelativeVariance": 0.04842214065301354,
+          "latentRelativeVariance": 0.18362503098550664,
+          "multiplier": {
+            "n": 58,
+            "mean": 1,
+            "variance": 0.1836250309855066,
+            "sd": 0.4285149133758434,
+            "p05": 0.44098126672757654,
+            "p10": 0.5946376481534382,
+            "p50": 0.9044115387166155,
+            "p90": 1.624377764837899,
+            "p95": 1.8110353483159765
+          }
+        },
+        "WR": {
+          "available": true,
+          "cohortN": 101,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 0.9944239801354308,
+          "observedRelativeVariance": 0.24858602581997913,
+          "weeklyMeanRelativeVariance": 0.06396993732576524,
+          "latentRelativeVariance": 0.1735162639634698,
+          "multiplier": {
+            "n": 101,
+            "mean": 1.0000000000000002,
+            "variance": 0.1735162639634698,
+            "sd": 0.4165528345401935,
+            "p05": 0.5527495418226567,
+            "p10": 0.6061150531515105,
+            "p50": 0.9182093697766893,
+            "p90": 1.48110640128876,
+            "p95": 1.9467718898864939
+          }
+        },
+        "TE": {
+          "available": true,
+          "cohortN": 45,
+          "minimumProjectedPpg": 3,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": 1.1345803922686917,
+          "observedRelativeVariance": 0.24190012813074627,
+          "weeklyMeanRelativeVariance": 0.06807099681610089,
+          "latentRelativeVariance": 0.16275053983567261,
+          "multiplier": {
+            "n": 45,
+            "mean": 0.9999999999999997,
+            "variance": 0.16275053983567264,
+            "sd": 0.40342352414760424,
+            "p05": 0.5463877187896786,
+            "p10": 0.6449770059931176,
+            "p50": 0.9697663639987174,
+            "p90": 1.3128618113790373,
+            "p95": 1.5328745417013132
+          }
+        },
+        "K": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        },
+        "DEF": {
+          "available": false,
+          "cohortN": 0,
+          "minimumProjectedPpg": 0,
+          "minimumActiveGames": 6,
+          "rawRateRatioMean": null,
+          "observedRelativeVariance": null,
+          "weeklyMeanRelativeVariance": null,
+          "latentRelativeVariance": 0,
+          "multiplier": {
+            "n": 1,
+            "mean": 1,
+            "variance": 0,
+            "sd": 0,
+            "p05": 1,
+            "p10": 1,
+            "p50": 1,
+            "p90": 1,
+            "p95": 1
+          }
+        }
+      }
+    }
+  }
+}

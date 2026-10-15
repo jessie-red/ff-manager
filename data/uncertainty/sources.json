@@ -1,0 +1,765 @@
+[
+  {
+    "path": "raw/espn-clay-2025.pdf",
+    "url": "https://g.espncdn.com/s/ffldraftkit/25/NFLDK2025_CS_ClayProjections2025.pdf",
+    "retrievedAt": "2026-09-10T22:53:40.471Z",
+    "sha256": "6aefc91d0b6a4b1d6dacef5bd254af52b8fd73bb732b6ed5a75f463ced2c016d",
+    "bytes": 4978398
+  },
+  {
+    "path": "raw/sleeper-projections-2023-1.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.331Z",
+    "sha256": "dbe4430d5d7e10eca87088c0a1d2af2c6deb73c6e8ebb6b72b8cd008ca8e7237",
+    "bytes": 514696
+  },
+  {
+    "path": "raw/sleeper-projections-2023-10.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.008Z",
+    "sha256": "dd954fab5e189e27f192be0631473d2e6a025f4f03a1b45dfd9abc7abe124396",
+    "bytes": 508638
+  },
+  {
+    "path": "raw/sleeper-projections-2023-11.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.436Z",
+    "sha256": "57502e83310f7803e4dd85bcde5afed5e525a210bba20d2ed509703c00549e22",
+    "bytes": 509148
+  },
+  {
+    "path": "raw/sleeper-projections-2023-12.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.546Z",
+    "sha256": "eb8682d270bb56f4548a9f76b002d056ec57845841f19e15fe67e2a6c079454d",
+    "bytes": 515252
+  },
+  {
+    "path": "raw/sleeper-projections-2023-13.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.957Z",
+    "sha256": "eda227d503b388d2cd6ae6edd184904bc488930051c6b2e41bbd1d7f025e2c92",
+    "bytes": 508775
+  },
+  {
+    "path": "raw/sleeper-projections-2023-14.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.744Z",
+    "sha256": "c971617922266f87106f5a0ce685136844a340d810071b9b9e2d1122012bbda9",
+    "bytes": 516397
+  },
+  {
+    "path": "raw/sleeper-projections-2023-15.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.327Z",
+    "sha256": "28161919eb5695859b0952469d3c6f36d90055a8ef2579bdd6f3beb0b0477941",
+    "bytes": 519271
+  },
+  {
+    "path": "raw/sleeper-projections-2023-16.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.227Z",
+    "sha256": "2159766d441f20abc3fd24521e2c39fc5d6ab0e5bd1d4f3bb5e2e55d8a43af19",
+    "bytes": 516431
+  },
+  {
+    "path": "raw/sleeper-projections-2023-17.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.705Z",
+    "sha256": "2e9cc10ab5034a8d625f546d961e8fe5da77964d0bffc131d984fd94af090387",
+    "bytes": 512571
+  },
+  {
+    "path": "raw/sleeper-projections-2023-18.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.597Z",
+    "sha256": "a67f330d0d7659e658c2431f9363b89aacae20438485cad594906d9cd2731a67",
+    "bytes": 517845
+  },
+  {
+    "path": "raw/sleeper-projections-2023-2.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.451Z",
+    "sha256": "3ea184de9f887ee143c2b8b76805f6032893a1d3a824600b0c1cf5caa2da8431",
+    "bytes": 514691
+  },
+  {
+    "path": "raw/sleeper-projections-2023-3.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.815Z",
+    "sha256": "0ad3d53c4d45529db0bbc7dc6f0b43c1888abc359540c34a6aaaaf340cd32fd6",
+    "bytes": 509623
+  },
+  {
+    "path": "raw/sleeper-projections-2023-4.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.924Z",
+    "sha256": "0bfef420778fbd9e1973782158208079993c7619a7b2a757aee38439164e2470",
+    "bytes": 514225
+  },
+  {
+    "path": "raw/sleeper-projections-2023-5.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.369Z",
+    "sha256": "83a7eb209ff16bdecce75a03fed2a1b53529c2850b2e28dbf519da10374188a3",
+    "bytes": 504063
+  },
+  {
+    "path": "raw/sleeper-projections-2023-6.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.260Z",
+    "sha256": "028f54bd3672bc0c1ba62583da757de58dc12267620a0fd4eb6ff881f3073d08",
+    "bytes": 512798
+  },
+  {
+    "path": "raw/sleeper-projections-2023-7.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.725Z",
+    "sha256": "9161ce28549fe78ca8132db171c21007d622033d9842cc513d3f4a9b637edd8c",
+    "bytes": 506005
+  },
+  {
+    "path": "raw/sleeper-projections-2023-8.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.561Z",
+    "sha256": "b96e561c73460dccd7d7830442c6a0d00063435565126a928da17b84a98e36a9",
+    "bytes": 513796
+  },
+  {
+    "path": "raw/sleeper-projections-2023-9.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2023/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.118Z",
+    "sha256": "6fe9ab81defbc571e3b94f8483ef38b8282723328bb3389c4ad3b5349c33eafb",
+    "bytes": 508588
+  },
+  {
+    "path": "raw/sleeper-projections-2024-1.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.024Z",
+    "sha256": "9ecca96595063f2ef65572106a93ffd0f49e9b3221319b484e1c53b1fd67114d",
+    "bytes": 527309
+  },
+  {
+    "path": "raw/sleeper-projections-2024-10.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.211Z",
+    "sha256": "dc92c0dba06b13e6feb96cfac8c6682512430603486fb84b3c981eb966dadf02",
+    "bytes": 522912
+  },
+  {
+    "path": "raw/sleeper-projections-2024-11.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.137Z",
+    "sha256": "493278bd3533fd2a31861b06d8f1894c031e339c0804fc22722bd16cb72bdcac",
+    "bytes": 524304
+  },
+  {
+    "path": "raw/sleeper-projections-2024-12.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.538Z",
+    "sha256": "8c6fb63342cd245e1a9a3bc56f3dab994d44f1f3ef7123d753541da846f787b7",
+    "bytes": 519614
+  },
+  {
+    "path": "raw/sleeper-projections-2024-13.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.588Z",
+    "sha256": "bb818ad714ac97740dc834c8c945474583e070bd4cbba98761b2fa7c8712db14",
+    "bytes": 533026
+  },
+  {
+    "path": "raw/sleeper-projections-2024-14.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.478Z",
+    "sha256": "18f3ab51919d9064a04414f7bdcf0bb679efd2a7d9094bc6ca3ad0d769717e01",
+    "bytes": 519667
+  },
+  {
+    "path": "raw/sleeper-projections-2024-15.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.979Z",
+    "sha256": "e24111f1d19c682ce1094341349c17762a467f11529eb255fe2d92f58262a467",
+    "bytes": 534336
+  },
+  {
+    "path": "raw/sleeper-projections-2024-16.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.811Z",
+    "sha256": "fbce5d7303f607ce692573e3022f16df5cf36bcd8badd0ff0c154a3dd08fa953",
+    "bytes": 531715
+  },
+  {
+    "path": "raw/sleeper-projections-2024-17.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.379Z",
+    "sha256": "93ae6eff88179b05935ae4dc0b52edb68e6edc87b52eb5f1a52639fb236cb7d9",
+    "bytes": 532370
+  },
+  {
+    "path": "raw/sleeper-projections-2024-18.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.276Z",
+    "sha256": "c9056e2a7bd732bf129e69faf09d34588e472a40f593e2b5584a0b8cce98bf04",
+    "bytes": 527391
+  },
+  {
+    "path": "raw/sleeper-projections-2024-2.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.906Z",
+    "sha256": "b51cb60aaf0a48e5a4159473f88a59d37ae2cfb6604cddb4b3b5889d1ff8e8b3",
+    "bytes": 532871
+  },
+  {
+    "path": "raw/sleeper-projections-2024-3.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.825Z",
+    "sha256": "98122e655ba2682bc94b60fa0f42a7d057253e6d1385d71f1ac3427386c0c773",
+    "bytes": 531409
+  },
+  {
+    "path": "raw/sleeper-projections-2024-4.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.595Z",
+    "sha256": "fe02361fb7ba2d0438f0f17bc07d82039204875f3d3156ca2eafaf12cee0e5be",
+    "bytes": 530520
+  },
+  {
+    "path": "raw/sleeper-projections-2024-5.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.249Z",
+    "sha256": "b6f14ddbcb969562ac640ca07953dba8fefc7d81dccb6415634688c11c58f078",
+    "bytes": 522565
+  },
+  {
+    "path": "raw/sleeper-projections-2024-6.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.042Z",
+    "sha256": "4eed47c14ef729e13cff896f6bfd7ef56b15213340e85ee815d4112f3224e5ef",
+    "bytes": 522236
+  },
+  {
+    "path": "raw/sleeper-projections-2024-7.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.997Z",
+    "sha256": "a01b23f2e55d54f91014ecdb91e556b9953ec277e323dbea454a2f340b8e92f1",
+    "bytes": 523807
+  },
+  {
+    "path": "raw/sleeper-projections-2024-8.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.466Z",
+    "sha256": "5f0d8deaf474ae233ee01bf08288c4f3a34eb8503ae119eb67fc5f643652b1bb",
+    "bytes": 531037
+  },
+  {
+    "path": "raw/sleeper-projections-2024-9.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2024/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.381Z",
+    "sha256": "e01e9ffe168e4a4c691bdbc0d0c55343965a8904efac8c17cbedb5e72f3cf6ad",
+    "bytes": 527923
+  },
+  {
+    "path": "raw/sleeper-projections-2025-1.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.820Z",
+    "sha256": "1a0090355189ac1dc64bef5d979bd5d2167c1514f2dd104c41d17acce8ebaf30",
+    "bytes": 516394
+  },
+  {
+    "path": "raw/sleeper-projections-2025-10.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.176Z",
+    "sha256": "a0e34eeccf25ad8697062bb43296a3d53e7e9373c70bfeb3d2627e2012e1ed7a",
+    "bytes": 526984
+  },
+  {
+    "path": "raw/sleeper-projections-2025-11.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.705Z",
+    "sha256": "297d07a9caf2623d5996f57885cca7b5840a303e5720bb6d1bdaa3b06b4ccd7f",
+    "bytes": 531798
+  },
+  {
+    "path": "raw/sleeper-projections-2025-12.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.539Z",
+    "sha256": "3cfa33010052cd980375d6e3b61a95043422df38c82de2825211e5c10f935255",
+    "bytes": 527486
+  },
+  {
+    "path": "raw/sleeper-projections-2025-13.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.084Z",
+    "sha256": "0c4a02d1142b9d5134b6daaf01877d4ef7d11e412ebc72f67e0f580212aff3b0",
+    "bytes": 534214
+  },
+  {
+    "path": "raw/sleeper-projections-2025-14.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.913Z",
+    "sha256": "ac8e27c7709d531f7f326f346a057f350c7098ed7391c3ddabc006c7a91f7b05",
+    "bytes": 526507
+  },
+  {
+    "path": "raw/sleeper-projections-2025-15.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.616Z",
+    "sha256": "e3293b17fc383a37bd5733d503e2bde84c746b306bcd88740101aa4c9adad4fa",
+    "bytes": 531938
+  },
+  {
+    "path": "raw/sleeper-projections-2025-16.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.438Z",
+    "sha256": "ac4047e62ca174191492fc6c4929687b8f259259047bab388e74549825c8ba7d",
+    "bytes": 535193
+  },
+  {
+    "path": "raw/sleeper-projections-2025-17.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:52.014Z",
+    "sha256": "a21561599b18aa7e54534584d5cf9415ea63f001e949199d952c87ad6a026597",
+    "bytes": 535303
+  },
+  {
+    "path": "raw/sleeper-projections-2025-18.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.837Z",
+    "sha256": "2f904709260230629b944af2d72077ec5b3379dde00066ab15b7e7a74b63719f",
+    "bytes": 536294
+  },
+  {
+    "path": "raw/sleeper-projections-2025-2.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.580Z",
+    "sha256": "d0f321837cd3544d1c5f41ccd70b7c8f9215d3720b84c05acafd6221f223ffac",
+    "bytes": 535008
+  },
+  {
+    "path": "raw/sleeper-projections-2025-3.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.232Z",
+    "sha256": "ae56d6f2257e800e55be1d25761fe314a11d9a945a9b9864bce5874228211d49",
+    "bytes": 529451
+  },
+  {
+    "path": "raw/sleeper-projections-2025-4.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.063Z",
+    "sha256": "bd0fabebc789bcf63c4012f7f894fed9dc75e0c8c0d5cdcfb357d2c17ad9b915",
+    "bytes": 533652
+  },
+  {
+    "path": "raw/sleeper-projections-2025-5.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.610Z",
+    "sha256": "caeb3580b57d635c72fa3de8abc31966e3e9d9ca9d377c47e33ab4c11395dae0",
+    "bytes": 525021
+  },
+  {
+    "path": "raw/sleeper-projections-2025-6.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.447Z",
+    "sha256": "131052e2834b40a62fb6a1881226d4297aa6ca5bd6f093ea4f7f7fc2c120e053",
+    "bytes": 524435
+  },
+  {
+    "path": "raw/sleeper-projections-2025-7.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.975Z",
+    "sha256": "d018daa25f051ca9283e19490a4113094eeddacc24b7d093b45b9fb1d89ad92c",
+    "bytes": 526739
+  },
+  {
+    "path": "raw/sleeper-projections-2025-8.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.815Z",
+    "sha256": "91f3bf3bf1490a1858649f0d5378175908858e75ecd99b5402149af646987653",
+    "bytes": 521781
+  },
+  {
+    "path": "raw/sleeper-projections-2025-9.json.gz",
+    "url": "https://api.sleeper.app/projections/nfl/2025/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.338Z",
+    "sha256": "43d4e17f2b034d4e0fde6c03b78737d5967fbc9a6a444d1dbc50ac51469f85ba",
+    "bytes": 522714
+  },
+  {
+    "path": "raw/sleeper-stats-2023-1.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.195Z",
+    "sha256": "a3c9d285fa8acff201670497d74645bbc39affcd51cc64a6090668b40615fabf",
+    "bytes": 209703
+  },
+  {
+    "path": "raw/sleeper-stats-2023-10.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.268Z",
+    "sha256": "1cf6f43b815c8a8fae183a12c3f3a05391e1b46f9d16951668131b04c7fb7a59",
+    "bytes": 188896
+  },
+  {
+    "path": "raw/sleeper-stats-2023-11.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.319Z",
+    "sha256": "54e5b10a8c6127bc1c8586aa62fb563d6a8cce36a50bedd42876ae5750ef17ec",
+    "bytes": 184707
+  },
+  {
+    "path": "raw/sleeper-stats-2023-12.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.851Z",
+    "sha256": "4c405886f8482d8cce2e5d239ea93abd4e7956b3c5cfe612fd3c8b666c39f0d7",
+    "bytes": 214258
+  },
+  {
+    "path": "raw/sleeper-stats-2023-13.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:42.799Z",
+    "sha256": "43879ef592a618d4872435c1c29edcde678a9a94d89e15828f7b4deb93b90f75",
+    "bytes": 182438
+  },
+  {
+    "path": "raw/sleeper-stats-2023-14.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.109Z",
+    "sha256": "8d36aabdd596c375ac1c45a537965a59b7df0236cd0768780453ee6288deb95c",
+    "bytes": 209478
+  },
+  {
+    "path": "raw/sleeper-stats-2023-15.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.108Z",
+    "sha256": "a7f7afa504fdeccb637f79cd8b345ecd1d6a1e4a416d1ac0a4d6010e8e312ae2",
+    "bytes": 223602
+  },
+  {
+    "path": "raw/sleeper-stats-2023-16.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.476Z",
+    "sha256": "7430f9a8c5b68d5420ba8eaa53b03aeb49cb23c032c4db1ef7da35f2dc239867",
+    "bytes": 220445
+  },
+  {
+    "path": "raw/sleeper-stats-2023-17.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.476Z",
+    "sha256": "a415ee7672a9aff311c77aba9238cf1f03a7ba8878d78df84609552d4fa04498",
+    "bytes": 226463
+  },
+  {
+    "path": "raw/sleeper-stats-2023-18.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:43.788Z",
+    "sha256": "b67024e1a7fd4ccd694b879f78ba970c61edc9cac70b0f671b0de40de35f04d8",
+    "bytes": 227407
+  },
+  {
+    "path": "raw/sleeper-stats-2023-2.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.685Z",
+    "sha256": "5c35c61f0802f87a0eb71e7db67cc85c1dbe82609a22b6240f05cdab20de392c",
+    "bytes": 212626
+  },
+  {
+    "path": "raw/sleeper-stats-2023-3.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:40.624Z",
+    "sha256": "8d3a83103aa92111888f9253be23cd5d4310978270924924cebed109188fcb02",
+    "bytes": 209776
+  },
+  {
+    "path": "raw/sleeper-stats-2023-4.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.088Z",
+    "sha256": "cb4284ed76d32ea37bf85851b6641c367cb7a632c4e468fab10f0f5c9274db48",
+    "bytes": 213305
+  },
+  {
+    "path": "raw/sleeper-stats-2023-5.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.150Z",
+    "sha256": "7ea439dbc7aa7bb5af891acd3f14eae5e436203729999e7df6d81aa72f2540b7",
+    "bytes": 187307
+  },
+  {
+    "path": "raw/sleeper-stats-2023-6.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.721Z",
+    "sha256": "fe5f4bf8c59bd6654bcf581fb2f68794ab6dde669f921213c482e4d535c1d61c",
+    "bytes": 199689
+  },
+  {
+    "path": "raw/sleeper-stats-2023-7.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.444Z",
+    "sha256": "9d392ae8adf0203c3d0ef500af6bec20ab6b56e893b64bb127ab503958e0923c",
+    "bytes": 170186
+  },
+  {
+    "path": "raw/sleeper-stats-2023-8.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.808Z",
+    "sha256": "3eb2848b53be6e94a9bee0a38ef9f489072b70e5ed2aa243b5bb7c76041533eb",
+    "bytes": 214820
+  },
+  {
+    "path": "raw/sleeper-stats-2023-9.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2023/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:41.898Z",
+    "sha256": "f4da191eb1b85119421acbb2258f50aeb54b8a05f7edceb088085f795eeae58c",
+    "bytes": 187464
+  },
+  {
+    "path": "raw/sleeper-stats-2024-1.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.329Z",
+    "sha256": "09edabdbf358b74014bc63e303189123ccaaa257da04b7d13808b7dd7b8f48c4",
+    "bytes": 223612
+  },
+  {
+    "path": "raw/sleeper-stats-2024-10.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.778Z",
+    "sha256": "632801a582eba5ae7bf85c4870340793cd297e5e00566d9cc54882cad8e83bf0",
+    "bytes": 200801
+  },
+  {
+    "path": "raw/sleeper-stats-2024-11.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.613Z",
+    "sha256": "ffe170b5120f3100521ca8cecaf263032eca62f3915e4354870b0ef156793724",
+    "bytes": 204809
+  },
+  {
+    "path": "raw/sleeper-stats-2024-12.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.297Z",
+    "sha256": "2fcbb1018c7787579d8aa0bd9c5ab40a042765579760ad732c2426d0e05dcc8c",
+    "bytes": 190051
+  },
+  {
+    "path": "raw/sleeper-stats-2024-13.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.360Z",
+    "sha256": "2793a422fae0e92ddc4c0ea3541ffeaed315f344f86cad24d6a5878cebbcd9b4",
+    "bytes": 233425
+  },
+  {
+    "path": "raw/sleeper-stats-2024-14.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.699Z",
+    "sha256": "19d2c892260617ea91a86084afe4e76dac0277cfc23d9cf7fbd3dca009ce677c",
+    "bytes": 188566
+  },
+  {
+    "path": "raw/sleeper-stats-2024-15.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:47.867Z",
+    "sha256": "ce7a917e50bab3d9e5116d55da8dbdcb037615294c6e59974c5c2b7e05b1eea1",
+    "bytes": 236235
+  },
+  {
+    "path": "raw/sleeper-stats-2024-16.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.068Z",
+    "sha256": "94af507238284a81f3cf5e3b399bab68bfec2e86e6699d0b0116679e0ff7e8f6",
+    "bytes": 231999
+  },
+  {
+    "path": "raw/sleeper-stats-2024-17.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.162Z",
+    "sha256": "0c1e8c5b12a32f924ac06ebbbc96ac64b5cf62fa518a6f5e599752cbf6b6cef6",
+    "bytes": 233143
+  },
+  {
+    "path": "raw/sleeper-stats-2024-18.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.709Z",
+    "sha256": "536cc3d4e65abee232cac8a9aeecea76a606b87bafa4a3054dae9f5cb4c2c3b7",
+    "bytes": 236141
+  },
+  {
+    "path": "raw/sleeper-stats-2024-2.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.466Z",
+    "sha256": "0df1fd2dd64a1729c268284a243a9e3d9ef334c3af57b782bf11eeb5e7790e6b",
+    "bytes": 226007
+  },
+  {
+    "path": "raw/sleeper-stats-2024-3.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.712Z",
+    "sha256": "dc4b38d1ab4f8d8311f1b534b94f294e0ee79d4dc57c1d5e86646a89cce80790",
+    "bytes": 227289
+  },
+  {
+    "path": "raw/sleeper-stats-2024-4.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:44.931Z",
+    "sha256": "437e7d4c5253486ce608a01731b63b24f37f1cec06c7946e2f0248177c54fd04",
+    "bytes": 227198
+  },
+  {
+    "path": "raw/sleeper-stats-2024-5.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.104Z",
+    "sha256": "5e2b3ad94f758e30dbb2bdeafab6f916c84434104954d0f1b356c033fab7b865",
+    "bytes": 203955
+  },
+  {
+    "path": "raw/sleeper-stats-2024-6.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.338Z",
+    "sha256": "12ebd265d7697f109bad4c8f7ceea47f9b3900a2861eeaee34aec5b6d2951aa5",
+    "bytes": 203250
+  },
+  {
+    "path": "raw/sleeper-stats-2024-7.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:45.521Z",
+    "sha256": "b8630bdca1a5f24b5fbabf867b9beaff1d1aaf6a45b46f575b9e1174fec9dde9",
+    "bytes": 217614
+  },
+  {
+    "path": "raw/sleeper-stats-2024-8.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.085Z",
+    "sha256": "b4fcd55185a2e0427c6c764af2bc7d8bc662863f86fc96c928f6113c08462db1",
+    "bytes": 234025
+  },
+  {
+    "path": "raw/sleeper-stats-2024-9.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2024/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:46.268Z",
+    "sha256": "1f8fa1a79389914889c5fbf5e5bcc1e1ea049ba3be15090b1983330a93947c24",
+    "bytes": 217925
+  },
+  {
+    "path": "raw/sleeper-stats-2025-1.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/1?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.710Z",
+    "sha256": "b80550065d7a3d7082047c04a569f9f8eb09be848f179f26a680066bb92e94b1",
+    "bytes": 234317
+  },
+  {
+    "path": "raw/sleeper-stats-2025-10.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/10?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.419Z",
+    "sha256": "4f91494c445e9521dc389c76b18945092be023a252224f01ad6baa2d3f95983b",
+    "bytes": 211857
+  },
+  {
+    "path": "raw/sleeper-stats-2025-11.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/11?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.597Z",
+    "sha256": "d25f0ee462ca5b4227e8afd095f7d515d7e0ebc717b1dde1164da9b827eb5e52",
+    "bytes": 227252
+  },
+  {
+    "path": "raw/sleeper-stats-2025-12.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/12?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.800Z",
+    "sha256": "d038cab1cbaed24f2a194255f3debf89e173350420c5fc7548c1323f55b2cf9f",
+    "bytes": 212667
+  },
+  {
+    "path": "raw/sleeper-stats-2025-13.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/13?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.973Z",
+    "sha256": "d1a71d15dbfb7e8c155662e1c2f20703cc2143db7b740ae9c7b6c25be9fea407",
+    "bytes": 238219
+  },
+  {
+    "path": "raw/sleeper-stats-2025-14.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/14?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.317Z",
+    "sha256": "387f859973c8da377cfd63ff34d5be3bfecedf556f404b65d3d1d083f13b1c71",
+    "bytes": 213619
+  },
+  {
+    "path": "raw/sleeper-stats-2025-15.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/15?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.505Z",
+    "sha256": "74497665fa808ab0801ddff1acc3e28a8e56fc0a072f3984e594d58f7573fa32",
+    "bytes": 239539
+  },
+  {
+    "path": "raw/sleeper-stats-2025-16.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/16?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.719Z",
+    "sha256": "d5eae609097ed2cd067fc518a3ca6e980fa5a48024f5901ab5e33d07878d0d81",
+    "bytes": 245721
+  },
+  {
+    "path": "raw/sleeper-stats-2025-17.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/17?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:51.902Z",
+    "sha256": "17fcde5849c019a87ada4b3628bd7d3fbfaeb7c665ab33a59406631920692e14",
+    "bytes": 240303
+  },
+  {
+    "path": "raw/sleeper-stats-2025-18.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/18?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:52.105Z",
+    "sha256": "78a7503bf1f62f6e412d29fbde973a281005b46299031aaf9f8c1f6c77610984",
+    "bytes": 230010
+  },
+  {
+    "path": "raw/sleeper-stats-2025-2.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/2?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:48.923Z",
+    "sha256": "5d71b8a10ab2632801f113db30d21d29ee6512c383ec391fd43028800efaec5d",
+    "bytes": 239286
+  },
+  {
+    "path": "raw/sleeper-stats-2025-3.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/3?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.118Z",
+    "sha256": "46333a5d651a1160fb57c5e1a4d0a00a902754f8d800f285783690a13d97edf9",
+    "bytes": 236722
+  },
+  {
+    "path": "raw/sleeper-stats-2025-4.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/4?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.325Z",
+    "sha256": "0f5391ade1017c23fa6f9a868d6b88e5f6193d1bf97a1f3c78a62ecd7b38e971",
+    "bytes": 240582
+  },
+  {
+    "path": "raw/sleeper-stats-2025-5.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/5?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.505Z",
+    "sha256": "0caff9930417ae31d8e243f58c983083609c8796e59b2588a4a1b0d2558faa19",
+    "bytes": 209584
+  },
+  {
+    "path": "raw/sleeper-stats-2025-6.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/6?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.692Z",
+    "sha256": "c8f480fd520a038ed150631fc4764c6319256b4b3ef0fc8d7850769ca5eb6676",
+    "bytes": 224128
+  },
+  {
+    "path": "raw/sleeper-stats-2025-7.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/7?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:49.868Z",
+    "sha256": "4a67a2e73b2587202ff520d9ac4a93a4a24ee9b02c196e369327f513e615eb1a",
+    "bytes": 221169
+  },
+  {
+    "path": "raw/sleeper-stats-2025-8.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/8?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.050Z",
+    "sha256": "3de2a9437f424a68831a13c57e966c6c4dc3ce7e184a9e4d10b69ca6a749377d",
+    "bytes": 196386
+  },
+  {
+    "path": "raw/sleeper-stats-2025-9.json.gz",
+    "url": "https://api.sleeper.app/stats/nfl/2025/9?season_type=regular",
+    "retrievedAt": "2026-09-10T22:53:50.228Z",
+    "sha256": "72ce4c37aa35cf2b4053dc2b124de4a28c1a762798df9b5e2d940c14f0a7acab",
+    "bytes": 209591
+  }
+]
